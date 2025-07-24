@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int count = 0;
-    for (int i = 1; i < 21; ++i) {
+    for (int i = 1; i <= 20; ++i) {
         count += i;
     }
 
